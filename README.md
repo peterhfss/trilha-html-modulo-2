@@ -1,38 +1,35 @@
 # Trilha HTML - Dio.me
+
+<h4 align="center"> 
+	🚧  Desafio - Módulo 2 🚀 Em construção...  🚧
+</h4>
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+O objetivo desse desafio é criar um site "quase" completo, com tudo o que visto no módulo. Os temas que deverão ser abordados são:
 - Formulários
 - Estruturação e formatação de texto
 - Mídias
 - Tabelas
 
-Além de outros recursos falados nas aulas!
-
 ## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
+1. Criar um site de uma clínica médica de sua preferência
 2. Este site deve conter o seguinte menu de navegação:
     - Página Principal
     - Sobre a clínica
     - Horário de Atendimento
     - Contato
-3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
-
-Abaixo como cada página deve ser criada e estruturada.
 
 ### Estrutura das páginas
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
-
 ![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
 
-\* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
-
 No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
-### Página Principal
-1. Deve ter uma imagem no **Header**.
+### Página Principal 
+1. Deve ter uma imagem no **Header**. 
 2. Em **Content** uma breve descrição sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
+
 
 ### Sobre a clínica
 1. Deve ter uma imagem diferente no **Header**.
@@ -69,6 +66,3 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
-
-Bora pra cima!
