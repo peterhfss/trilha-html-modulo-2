@@ -1,8 +1,5 @@
 # Trilha HTML - Dio.me
 
-<h4 align="center"> 
-	🚧  Desafio - Módulo 2 🚀 Em construção...  🚧
-</h4>
 
 ## Módulo 02 - HTML I - Conceitos Básicos
 
